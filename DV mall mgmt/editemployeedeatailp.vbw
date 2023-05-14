@@ -1,0 +1,13 @@
+frmlogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmshop = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmmain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmemployee = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmeditemployee = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmtenent = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmedittenent = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmrent = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmeditrent = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmemployeeattendance = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmeditattendance = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmreport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
